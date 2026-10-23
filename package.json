@@ -1,7 +1,7 @@
 {
-  "name": "TEMPLATE NAME",
+  "name": "Geometry Dash Tracker",
   "version": "0.0.0",
-  "description": "TEMPLATE DESCRIPTION",
+  "description": "A lightweight web application to keep track of Geometry Dash levels (mainly Extreme Demons) that you want to beat and levels which you have beaten.",
   "keywords": [],
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Yooli8537",

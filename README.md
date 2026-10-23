@@ -1,6 +1,8 @@
-# Geometry Dash Bucket List
+# Geometry Dash Tracker
 
-This is a lightweight web application to keep track of Geometry Dash level that you want to beat & that you have beaten.
+A lightweight web application to keep track of Geometry Dash levels (mainly Extreme Demons) that you want to beat and levels which you have beaten.
+
+Compatible with the AREDL API.
 
 ## Notes
 
